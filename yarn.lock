@@ -4345,6 +4345,10 @@ signal-exit@^3.0.0, signal-exit@^3.0.2:
   version "3.0.2"
   resolved "https://registry.yarnpkg.com/signal-exit/-/signal-exit-3.0.2.tgz#b5fdc08f1287ea1178628e415e25132b73646c6d"
 
+signalr-client@^0.1.0-alpha1-26666:
+  version "0.1.0-alpha1-26666"
+  resolved "https://dotnet.myget.org/F/aspnetcore-ci-dev/npm/signalr-client/-/signalr-client-0.1.0-alpha1-26666.tgz#3cd86ee88b0158d7aab289d8db54115d24da2aae"
+
 silent-error@^1.0.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/silent-error/-/silent-error-1.1.0.tgz#2209706f1c850a9f1d10d0d840918b46f26e1bc9"
